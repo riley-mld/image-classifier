@@ -1,7 +1,7 @@
 import numpy as np
 
 import argparse
-from time import time, sleep
+from time import time
 import json
 
 import torch

@@ -1,12 +1,9 @@
-import matplotlib.pyplot as plt
 import numpy as np
 
 from PIL import Image
 
 import torch
-from torchvision import transforms, datasets, models
 from torch import nn
-from torch import optim
 import torch.nn.functional as F
 
 
