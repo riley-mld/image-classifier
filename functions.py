@@ -5,6 +5,8 @@ from PIL import Image
 import torch
 from torch import nn
 import torch.nn.functional as F
+from torchvision import transforms, datasets, models
+from torch import optim
 
 
 class Network(nn.Module):

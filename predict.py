@@ -3,6 +3,7 @@ import numpy as np
 import argparse
 import json
 from PIL import Image
+from time import time
 
 import torch
 
